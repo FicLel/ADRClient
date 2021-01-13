@@ -6,7 +6,9 @@
       dark
     >
       <div class="d-flex align-center">
-        ADR 
+        <v-btn  to="/level" dark text>
+          ADR
+        </v-btn>
       </div>
 
       <v-spacer></v-spacer>
